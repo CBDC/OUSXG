@@ -1,6 +1,6 @@
 <resource schema="ousxg">
 <meta name="title">Swift XRT Blazar catalog</meta>
-  <meta name="creationDate">2018-08-13T21:02:03</meta>
+  <meta name="creationDate">2019-10-04T20:02:03</meta>
   <meta name="description">
      Swift XRT GRB catalog
   </meta>
@@ -139,7 +139,7 @@
   </table>
 
   <data id="import">
-    <sources>ousxg.fits</sources>
+    <sources>ousxg2.fits</sources>
 
     <fitsTableGrammar/>
 
