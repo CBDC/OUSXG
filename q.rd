@@ -139,7 +139,7 @@
   </table>
 
   <data id="import">
-    <sources>ousxg2.fits</sources>
+    <sources>ousxgr.fits</sources>
 
     <fitsTableGrammar/>
 
